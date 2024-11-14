@@ -8,6 +8,7 @@
 - GarnetRaven was here!
 - Hi! Sumit here! 14 Nov 2024
 - Hi! This is Victor Tsai! 14 Nov 2024
+- Hii ! Pranav Here I wannna be the best in software industry ! This is my first open source commit 14 Nov 2024
 - Hi! This is Yuvv! 13 Nov 2024
 - AJ here  **12-Nov-2024**
 - Xinchao ! Toi la Trinh Mai
